@@ -1,4 +1,4 @@
-# m10-hw12-lastname-firstname
+# m10-hw12-parra-nicole
 Create a Car constructing class in JavaScript.
 ----
 
